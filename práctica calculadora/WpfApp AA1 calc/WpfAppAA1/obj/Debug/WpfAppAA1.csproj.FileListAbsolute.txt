@@ -1,0 +1,28 @@
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\obj\Debug\WpfAppAA1.csprojAssemblyReference.cache
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\obj\Debug\MainWindow.g.cs
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\obj\Debug\App.g.cs
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\obj\Debug\WpfAppAA1_MarkupCompile.cache
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\obj\Debug\WpfAppAA1_MarkupCompile.lref
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\bin\Debug\WpfAppAA1.exe.config
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\bin\Debug\WpfAppAA1.exe
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\bin\Debug\WpfAppAA1.pdb
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\obj\Debug\MainWindow.baml
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\obj\Debug\WpfAppAA1.g.resources
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\obj\Debug\WpfAppAA1.Properties.Resources.resources
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\obj\Debug\WpfAppAA1.csproj.GenerateResource.cache
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\obj\Debug\WpfAppAA1.exe
+C:\Users\formacio\Documents\Alejandro Almendro\GIT\GITRepos\WpfAppAA1\WpfAppAA1\obj\Debug\WpfAppAA1.pdb
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\bin\Debug\WpfAppAA1.exe.config
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\bin\Debug\WpfAppAA1.exe
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\bin\Debug\WpfAppAA1.pdb
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\obj\Debug\WpfAppAA1.csprojAssemblyReference.cache
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\obj\Debug\MainWindow.g.cs
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\obj\Debug\App.g.cs
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\obj\Debug\WpfAppAA1_MarkupCompile.cache
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\obj\Debug\WpfAppAA1_MarkupCompile.lref
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\obj\Debug\MainWindow.baml
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\obj\Debug\WpfAppAA1.g.resources
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\obj\Debug\WpfAppAA1.Properties.Resources.resources
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\obj\Debug\WpfAppAA1.csproj.GenerateResource.cache
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\obj\Debug\WpfAppAA1.exe
+C:\Users\formacio\Documents\Alejandro Almendro\Calc Project\WpfApp AA1 calc\WpfAppAA1\obj\Debug\WpfAppAA1.pdb

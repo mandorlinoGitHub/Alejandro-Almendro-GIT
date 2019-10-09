@@ -1,0 +1,11 @@
+C:\Users\formacio\source\repos\ConsoleAppAA1Solución\ConsoleAppAA1Solución\bin\Debug\netcoreapp3.0\ConsoleAppAA1Solución.exe
+C:\Users\formacio\source\repos\ConsoleAppAA1Solución\ConsoleAppAA1Solución\bin\Debug\netcoreapp3.0\ConsoleAppAA1Solución.deps.json
+C:\Users\formacio\source\repos\ConsoleAppAA1Solución\ConsoleAppAA1Solución\bin\Debug\netcoreapp3.0\ConsoleAppAA1Solución.runtimeconfig.json
+C:\Users\formacio\source\repos\ConsoleAppAA1Solución\ConsoleAppAA1Solución\bin\Debug\netcoreapp3.0\ConsoleAppAA1Solución.runtimeconfig.dev.json
+C:\Users\formacio\source\repos\ConsoleAppAA1Solución\ConsoleAppAA1Solución\bin\Debug\netcoreapp3.0\ConsoleAppAA1Solución.dll
+C:\Users\formacio\source\repos\ConsoleAppAA1Solución\ConsoleAppAA1Solución\bin\Debug\netcoreapp3.0\ConsoleAppAA1Solución.pdb
+C:\Users\formacio\source\repos\ConsoleAppAA1Solución\ConsoleAppAA1Solución\obj\Debug\netcoreapp3.0\ConsoleAppAA1Solución.csprojAssemblyReference.cache
+C:\Users\formacio\source\repos\ConsoleAppAA1Solución\ConsoleAppAA1Solución\obj\Debug\netcoreapp3.0\ConsoleAppAA1Solución.AssemblyInfoInputs.cache
+C:\Users\formacio\source\repos\ConsoleAppAA1Solución\ConsoleAppAA1Solución\obj\Debug\netcoreapp3.0\ConsoleAppAA1Solución.AssemblyInfo.cs
+C:\Users\formacio\source\repos\ConsoleAppAA1Solución\ConsoleAppAA1Solución\obj\Debug\netcoreapp3.0\ConsoleAppAA1Solución.dll
+C:\Users\formacio\source\repos\ConsoleAppAA1Solución\ConsoleAppAA1Solución\obj\Debug\netcoreapp3.0\ConsoleAppAA1Solución.pdb

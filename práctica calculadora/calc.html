@@ -1,0 +1,19 @@
+<div>
+    <input id="Num1" type="text" /></br>
+    <input id="Num2" type="text" /></br>
+    <input type="button" value="Sum" onclick="Sum()" />
+</div>
+
+<script>
+
+function Sum()
+    {
+        var num1Text= document.getElementById("Num1").value.replace(/./, ",");
+        num1Text.replace(/./, ",");
+        var num2Text= document.getElementById("Num2").value.replace(/./, ",");
+        num2Text.replace(/./, ",");
+        var s ="Num1: " + num1Text + " Num2: " + num2Text;
+
+        alert(s);
+    }
+</script>

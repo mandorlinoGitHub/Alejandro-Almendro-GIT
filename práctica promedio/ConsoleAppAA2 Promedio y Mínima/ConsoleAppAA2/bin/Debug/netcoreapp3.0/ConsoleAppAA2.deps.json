@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ConsoleAppAA2/1.0.0": {
+        "runtime": {
+          "ConsoleAppAA2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppAA2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

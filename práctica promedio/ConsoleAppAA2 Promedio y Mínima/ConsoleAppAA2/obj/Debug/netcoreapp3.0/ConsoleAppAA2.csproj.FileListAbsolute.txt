@@ -1,0 +1,22 @@
+C:\Users\formacio\source\repos\ConsoleAppAA2\ConsoleAppAA2\obj\Debug\netcoreapp3.0\ConsoleAppAA2.csprojAssemblyReference.cache
+C:\Users\formacio\source\repos\ConsoleAppAA2\ConsoleAppAA2\obj\Debug\netcoreapp3.0\ConsoleAppAA2.AssemblyInfoInputs.cache
+C:\Users\formacio\source\repos\ConsoleAppAA2\ConsoleAppAA2\obj\Debug\netcoreapp3.0\ConsoleAppAA2.AssemblyInfo.cs
+C:\Users\formacio\source\repos\ConsoleAppAA2\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.exe
+C:\Users\formacio\source\repos\ConsoleAppAA2\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.deps.json
+C:\Users\formacio\source\repos\ConsoleAppAA2\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.runtimeconfig.json
+C:\Users\formacio\source\repos\ConsoleAppAA2\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.runtimeconfig.dev.json
+C:\Users\formacio\source\repos\ConsoleAppAA2\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.dll
+C:\Users\formacio\source\repos\ConsoleAppAA2\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.pdb
+C:\Users\formacio\source\repos\ConsoleAppAA2\ConsoleAppAA2\obj\Debug\netcoreapp3.0\ConsoleAppAA2.dll
+C:\Users\formacio\source\repos\ConsoleAppAA2\ConsoleAppAA2\obj\Debug\netcoreapp3.0\ConsoleAppAA2.pdb
+C:\Users\formacio\Documents\Alejandro Almendro\Promedio Project\ConsoleAppAA2 Promedio y Mínima\ConsoleAppAA2\obj\Debug\netcoreapp3.0\ConsoleAppAA2.csprojAssemblyReference.cache
+C:\Users\formacio\Documents\Alejandro Almendro\Promedio Project\ConsoleAppAA2 Promedio y Mínima\ConsoleAppAA2\obj\Debug\netcoreapp3.0\ConsoleAppAA2.AssemblyInfoInputs.cache
+C:\Users\formacio\Documents\Alejandro Almendro\Promedio Project\ConsoleAppAA2 Promedio y Mínima\ConsoleAppAA2\obj\Debug\netcoreapp3.0\ConsoleAppAA2.AssemblyInfo.cs
+C:\Users\formacio\Documents\Alejandro Almendro\Promedio Project\ConsoleAppAA2 Promedio y Mínima\ConsoleAppAA2\obj\Debug\netcoreapp3.0\ConsoleAppAA2.dll
+C:\Users\formacio\Documents\Alejandro Almendro\Promedio Project\ConsoleAppAA2 Promedio y Mínima\ConsoleAppAA2\obj\Debug\netcoreapp3.0\ConsoleAppAA2.pdb
+C:\Users\formacio\Documents\Alejandro Almendro\Promedio Project\ConsoleAppAA2 Promedio y Mínima\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.exe
+C:\Users\formacio\Documents\Alejandro Almendro\Promedio Project\ConsoleAppAA2 Promedio y Mínima\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.deps.json
+C:\Users\formacio\Documents\Alejandro Almendro\Promedio Project\ConsoleAppAA2 Promedio y Mínima\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.runtimeconfig.json
+C:\Users\formacio\Documents\Alejandro Almendro\Promedio Project\ConsoleAppAA2 Promedio y Mínima\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.runtimeconfig.dev.json
+C:\Users\formacio\Documents\Alejandro Almendro\Promedio Project\ConsoleAppAA2 Promedio y Mínima\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.dll
+C:\Users\formacio\Documents\Alejandro Almendro\Promedio Project\ConsoleAppAA2 Promedio y Mínima\ConsoleAppAA2\bin\Debug\netcoreapp3.0\ConsoleAppAA2.pdb
