@@ -1,0 +1,10 @@
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\Linkedin Learning\C# Essential Training 2\1 Essential Training\1_Essential_Training\obj\Debug\1_Essential_Training.csprojAssemblyReference.cache
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\Linkedin Learning\C# Essential Training 2\1 Essential Training\1_Essential_Training\bin\Debug\1_Essential_Training.dll
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\Linkedin Learning\C# Essential Training 2\1 Essential Training\1_Essential_Training\bin\Debug\1_Essential_Training.pdb
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\Linkedin Learning\C# Essential Training 2\1 Essential Training\1_Essential_Training\bin\Debug\1 Essential Training.dll
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\Linkedin Learning\C# Essential Training 2\1 Essential Training\1_Essential_Training\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\Linkedin Learning\C# Essential Training 2\1 Essential Training\1_Essential_Training\bin\Debug\1 Essential Training.pdb
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\Linkedin Learning\C# Essential Training 2\1 Essential Training\1_Essential_Training\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\Linkedin Learning\C# Essential Training 2\1 Essential Training\1_Essential_Training\obj\Debug\1_Essential_Training.csproj.CopyComplete
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\Linkedin Learning\C# Essential Training 2\1 Essential Training\1_Essential_Training\obj\Debug\1_Essential_Training.dll
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\Linkedin Learning\C# Essential Training 2\1 Essential Training\1_Essential_Training\obj\Debug\1_Essential_Training.pdb

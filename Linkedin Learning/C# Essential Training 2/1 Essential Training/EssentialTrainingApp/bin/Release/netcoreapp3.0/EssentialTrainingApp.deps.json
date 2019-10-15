@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "EssentialTrainingApp/1.0.0": {
+        "dependencies": {
+          "NLog": "4.6.7",
+          "NLog.Config": "4.6.7"
+        },
+        "runtime": {
+          "EssentialTrainingApp.dll": {}
+        }
+      },
+      "NLog/4.6.7": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.7.10445"
+          }
+        }
+      },
+      "NLog.Config/4.6.7": {
+        "dependencies": {
+          "NLog": "4.6.7",
+          "NLog.Schema": "4.6.7"
+        }
+      },
+      "NLog.Schema/4.6.7": {}
+    }
+  },
+  "libraries": {
+    "EssentialTrainingApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/4.6.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xSIzXrIF89Ww6yoJPvyBcu4JLgNiDiEaTT4GyVltZEeVIvkgSm9J/srUy1Yz0EXwbTv502l8knoCFrgNc/MUMA==",
+      "path": "nlog/4.6.7",
+      "hashPath": "nlog.4.6.7.nupkg.sha512"
+    },
+    "NLog.Config/4.6.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vgf2nMi+L9ZWv9YNmsuS3ur3RTJh52jOMC4W+Fz8njdQ45kshYBWLMGMuXlZl250HNhvUIhi6fxoHBaq2R1o/Q==",
+      "path": "nlog.config/4.6.7",
+      "hashPath": "nlog.config.4.6.7.nupkg.sha512"
+    },
+    "NLog.Schema/4.6.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-myTROWvjsL2S6tJSZmgYxzJesCa0jWsQ7u/zLkmd3X+N1TU4eUvUfu/rv4WFD3cI9xUR5bgEyrD78rCLekUaQg==",
+      "path": "nlog.schema/4.6.7",
+      "hashPath": "nlog.schema.4.6.7.nupkg.sha512"
+    }
+  }
+}
