@@ -5,3 +5,9 @@ C:\Users\Mandorlino\Google Drive\estudios\Cursos\2019 Cibernàrium\Alejandro Alm
 C:\Users\Mandorlino\Google Drive\estudios\Cursos\2019 Cibernàrium\Alejandro Almendro GIT\práctica letras\ConsoleAppAA letras\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\Mandorlino\Google Drive\estudios\Cursos\2019 Cibernàrium\Alejandro Almendro GIT\práctica letras\ConsoleAppAA letras\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Mandorlino\Google Drive\estudios\Cursos\2019 Cibernàrium\Alejandro Almendro GIT\práctica letras\ConsoleAppAA letras\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica letras\ConsoleAppAA letras\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica letras\ConsoleAppAA letras\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica letras\ConsoleAppAA letras\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica letras\ConsoleAppAA letras\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica letras\ConsoleAppAA letras\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica letras\ConsoleAppAA letras\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

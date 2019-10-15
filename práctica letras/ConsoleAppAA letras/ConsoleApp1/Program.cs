@@ -11,10 +11,11 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Introduce tu nombre (con caracteres alfanuméricos):");
-            string input = Console.ReadLine();
+            string inputName = Console.ReadLine();
 
             #region FASE 1: Crear y escribir array de caracteres.
-            char[] nameArray = input.ToCharArray(0, input.Length);
+            Console.WriteLine("FASE 1:");
+            char[] nameArray = inputName.ToCharArray(0, inputName.Length);
 
 
             foreach(char i in nameArray)
@@ -22,9 +23,11 @@ namespace ConsoleApp1
                 Console.Write(i + " ");
             }
             Console.WriteLine();
+            Console.WriteLine();
             #endregion
 
             #region FASE 2: Convertir a lista, detectar si son consonante, vocal o número.
+            Console.WriteLine("FASE 2:");
             List<char> nameList = nameArray.ToList();
 
             foreach(char i in nameList)
@@ -37,22 +40,51 @@ namespace ConsoleApp1
                     Console.WriteLine(i + " ¡Los nombres de personas no contienen números!");
                 else Console.WriteLine("\"" + i + "\"" + " no es un carácter alfanumérico");
             }
-            Console.ReadLine();
+            Console.WriteLine();
             #endregion
 
-            #region FASE 3: Guardar en diccionario
-            Dictionary<char, string> charDictionary = new Dictionary<char, string>();
+            #region FASE 3: Guardar en diccionario cada una y cuánto se repiten.
+            Console.WriteLine("FASE 3:");
+            Dictionary<char, int> CharCountDict = new Dictionary<char, int>();
 
-            foreach(char i in nameList)
+            foreach (char item in nameList)
             {
-                string j = "aparece" + count+"veces.";
-                charDictionary.Add<i; > 
+                if (CharCountDict.ContainsKey(item))
+                {
+                    CharCountDict[item] += 1;
+                }
+                else
+                {
+                    CharCountDict.Add(item, 1);
+                }
+            }
+            foreach (KeyValuePair<char,int> item in CharCountDict)
+            {
+                Console.WriteLine($"Key: {item.Key}    Iterations: {item.Value}");
+            }
+            Console.WriteLine();
+            #endregion
+
+            #region FASE 4: Crear otra lista y fusionarlas con un espacio en blanco entremedio.
+            Console.WriteLine("Introduce tu apellido (con caracteres alfanuméricos):");
+            string inputLastName = Console.ReadLine();
+
+            List<char> lastNameList = new List<char>() { ' '};
+
+            foreach (char item in inputLastName)
+            {
+                lastNameList.Add(item);
             }
 
-            #endregion
+            List<char> fullName = new List<char>();
+            fullName = nameList.Concat(lastNameList).ToList();
 
-            #region FASE 4:
-            //TODO
+            foreach (char item in fullName)
+            {
+                Console.Write(item);
+                Console.Write(", ");
+            }
+            Console.ReadLine();
             #endregion
         }
     }
