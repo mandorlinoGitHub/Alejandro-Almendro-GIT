@@ -1,0 +1,11 @@
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica ciudades\ConsoleAppAA ciudades\ConsoleAppAA ciudades\bin\Debug\netcoreapp3.0\ConsoleAppAA ciudades.exe
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica ciudades\ConsoleAppAA ciudades\ConsoleAppAA ciudades\bin\Debug\netcoreapp3.0\ConsoleAppAA ciudades.deps.json
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica ciudades\ConsoleAppAA ciudades\ConsoleAppAA ciudades\bin\Debug\netcoreapp3.0\ConsoleAppAA ciudades.runtimeconfig.json
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica ciudades\ConsoleAppAA ciudades\ConsoleAppAA ciudades\bin\Debug\netcoreapp3.0\ConsoleAppAA ciudades.runtimeconfig.dev.json
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica ciudades\ConsoleAppAA ciudades\ConsoleAppAA ciudades\bin\Debug\netcoreapp3.0\ConsoleAppAA ciudades.dll
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica ciudades\ConsoleAppAA ciudades\ConsoleAppAA ciudades\bin\Debug\netcoreapp3.0\ConsoleAppAA ciudades.pdb
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica ciudades\ConsoleAppAA ciudades\ConsoleAppAA ciudades\obj\Debug\netcoreapp3.0\ConsoleAppAA ciudades.csprojAssemblyReference.cache
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica ciudades\ConsoleAppAA ciudades\ConsoleAppAA ciudades\obj\Debug\netcoreapp3.0\ConsoleAppAA ciudades.AssemblyInfoInputs.cache
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica ciudades\ConsoleAppAA ciudades\ConsoleAppAA ciudades\obj\Debug\netcoreapp3.0\ConsoleAppAA ciudades.AssemblyInfo.cs
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica ciudades\ConsoleAppAA ciudades\ConsoleAppAA ciudades\obj\Debug\netcoreapp3.0\ConsoleAppAA ciudades.dll
+C:\Users\formacio\Documents\Alejandro Almendro dotNET\Alejandro Almendro GIT\práctica ciudades\ConsoleAppAA ciudades\ConsoleAppAA ciudades\obj\Debug\netcoreapp3.0\ConsoleAppAA ciudades.pdb
