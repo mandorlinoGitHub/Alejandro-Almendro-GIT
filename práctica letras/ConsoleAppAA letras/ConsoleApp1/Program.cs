@@ -69,20 +69,28 @@ namespace ConsoleApp1
             Console.WriteLine("Introduce tu apellido (con caracteres alfanuméricos):");
             string inputLastName = Console.ReadLine();
 
-            List<char> lastNameList = new List<char>() { ' '};
+            var lastNameList = new List<char>() {' '};
 
             foreach (char item in inputLastName)
             {
                 lastNameList.Add(item);
             }
 
-            List<char> fullName = new List<char>();
-            fullName = nameList.Concat(lastNameList).ToList();
+            var fullNameList = new List<char>();
+            fullNameList.AddRange(nameList);
+            fullNameList.AddRange(lastNameList);
 
-            foreach (char item in fullName)
+
+            var commaCount = 0;
+            foreach (char item in fullNameList)
             {
                 Console.Write(item);
+                commaCount++;
+
+                if (commaCount < fullNameList.Count)
+                { 
                 Console.Write(", ");
+                }
             }
             Console.ReadLine();
             #endregion
