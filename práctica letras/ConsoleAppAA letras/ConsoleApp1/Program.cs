@@ -76,13 +76,27 @@ namespace ConsoleApp1
                 lastNameList.Add(item);
             }
 
-            List<char> fullName = new List<char>();
-            fullName = nameList.Concat(lastNameList).ToList();
+            //var fullNameCount = nameList.Count + lastNameList.Count;
 
-            foreach (char item in fullName)
+            //var fullName = new char[fullNameCount];
+            //fullName = nameList.AddRange(lastNameList).ToArray();
+
+            //var fullNameList = fullName.ToList();
+
+            var fullNameList =new List<char>();
+
+            fullNameList.InsertRange(0,nameList);
+            fullNameList.InsertRange(fullNameList.Count, lastNameList);
+
+            foreach (char item in fullNameList)
             {
                 Console.Write(item);
-                Console.Write(", ");
+                Console.Write(fullNameList.IndexOf(item));
+                int commaCheck = fullNameList.Count()-1;
+                if (fullNameList.IndexOf(item) != commaCheck)
+                {
+                    Console.Write(", ");
+                }
             }
             Console.ReadLine();
             #endregion
