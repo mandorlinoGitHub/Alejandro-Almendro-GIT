@@ -75,29 +75,7 @@ namespace ConsoleApp1
             {
                 lastNameList.Add(item);
             }
-
-<<<<<<< HEAD
-            //var fullNameCount = nameList.Count + lastNameList.Count;
-
-            //var fullName = new char[fullNameCount];
-            //fullName = nameList.AddRange(lastNameList).ToArray();
-
-            //var fullNameList = fullName.ToList();
-
-            var fullNameList =new List<char>();
-
-            fullNameList.InsertRange(0,nameList);
-            fullNameList.InsertRange(fullNameList.Count, lastNameList);
-
-            foreach (char item in fullNameList)
-            {
-                Console.Write(item);
-                Console.Write(fullNameList.IndexOf(item));
-                int commaCheck = fullNameList.Count()-1;
-                if (fullNameList.IndexOf(item) != commaCheck)
-                {
-                    Console.Write(", ");
-=======
+            
             var fullNameList = new List<char>();
             fullNameList.AddRange(nameList);
             fullNameList.AddRange(lastNameList);
@@ -112,8 +90,8 @@ namespace ConsoleApp1
                 if (commaCount < fullNameList.Count)
                 { 
                 Console.Write(", ");
->>>>>>> 278d61a307bf5f9213f80a346e22f2341788bf67
                 }
+                else Console.Write(".");
             }
             Console.ReadLine();
             #endregion
