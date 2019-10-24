@@ -1,0 +1,60 @@
+﻿<Window x:Class="WpfApp_AA1_calc_compleja.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_AA1_calc_compleja"
+        mc:Ignorable="d"
+        Title="Calculator" Height="315" Width="255">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <!--Botones de números-->
+        <Button x:Name="num7" Grid.Row="2" Grid.Column="0"> 7 </Button>
+        <Button x:Name="num8" Grid.Row="2" Grid.Column="1">8</Button>
+        <Button x:Name="num9" Grid.Row="2" Grid.Column="2">9</Button>
+        <Button x:Name="num4" Grid.Row="3" Grid.Column="0" Click="num4_Click">4</Button>
+        <Button x:Name="num5" Grid.Row="3" Grid.Column="1">5</Button>
+        <Button x:Name="num6" Grid.Row="3" Grid.Column="2">6</Button>
+        <Button x:Name="num1" Grid.Row="4" Grid.Column="0" Click="num1_Click">1</Button>
+        <Button x:Name="num2" Grid.Row="4" Grid.Column="1" Click="num2_Click">2</Button>
+        <Button x:Name="num3" Grid.Row="4" Grid.Column="2" Click="num3_Click">3</Button>
+        <Button x:Name="num0" Grid.Row="5" Grid.Column="1">0</Button>
+
+        <!--Botones de operadores-->
+        <Button x:Name="mas" Grid.Row="1" Grid.Column="3">+</Button>
+        <Button x:Name="menos" Grid.Row="2" Grid.Column="3">-</Button>
+        <Button x:Name="por" Grid.Row="3" Grid.Column="3">*</Button>
+        <Button x:Name="divide" Grid.Row="4" Grid.Column="3">/</Button>
+        <Button x:Name="igual" Grid.Row="5" Grid.Column="3">=</Button>
+
+        <!--Botones de limpieza-->
+        <Button x:Name="borrastring" Grid.Row="1" Grid.Column="0">CE</Button>
+        <Button x:Name="borrató" Grid.Row="1" Grid.Column="1">C</Button>
+        <Button x:Name="borrachar" Grid.Row="1" Grid.Column="2" Content="&lt;="/>
+
+        <!--Botones de positivo y negativo-->
+        <Button x:Name="posyneg" Grid.Row="5" Grid.Column="0">+-</Button>
+
+        <!--Display-->
+        <TextBox x:Name="Display" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" IsReadOnly="true" TextAlignment="right" VerticalAlignment="Bottom" FontSize="30" BorderThickness="5">0</TextBox>
+
+        <!--Botón de pene-->
+        <Button Grid.Row="5" Grid.Column="2">P</Button>
+        
+    </Grid>
+</Window>

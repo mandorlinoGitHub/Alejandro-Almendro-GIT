@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "WpfApp AA1 calc compleja/1.0.0": {
+        "runtime": {
+          "WpfApp AA1 calc compleja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp AA1 calc compleja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

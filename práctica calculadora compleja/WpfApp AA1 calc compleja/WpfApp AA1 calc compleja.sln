@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp AA1 calc compleja", "WpfApp AA1 calc compleja\WpfApp AA1 calc compleja.csproj", "{FAB31A7F-39A9-4626-8845-46FAD4E11AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB31A7F-39A9-4626-8845-46FAD4E11AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB31A7F-39A9-4626-8845-46FAD4E11AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB31A7F-39A9-4626-8845-46FAD4E11AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB31A7F-39A9-4626-8845-46FAD4E11AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3194DA-FD52-4004-9848-9D275ED7A726}
+	EndGlobalSection
+EndGlobal
